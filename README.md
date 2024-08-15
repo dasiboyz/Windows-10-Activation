@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://github.com/dasiboyz/">
-    <img src="./assets/Windows_10_Logo.png" alt="Logo">
+    <img src="./Windows-10-Activator/assets/Windows_10_Logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Windows 10 Activator</h3>
   <h4 align="center">💖Support this repo by giving a star. Thanks.</h4>
   
-- Methid 1 - [Click here]()
-- Method 2 - [Click here]()
-- Method 3 - [Click here]()
+- Methid 1 - [Click here](https://github.com/dasiboyz/Windows-10-Activation/blob/Coad/README.md)
+- Method 2 - [Click here](https://github.com/dasiboyz/Windows-10-Activation/tree/Coad/Windows-10-Activator/method-2/README.md)
+- Method 3 - [Click here](https://github.com/dasiboyz/Windows-10-Activation/blob/Coad/Windows-10-Activator/method-3/README.md)
 
 ## Supported Versions.
 - Windows 10 Home.
