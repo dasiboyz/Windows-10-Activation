@@ -6,7 +6,7 @@
   <h3 align="center">Windows 10 Activator</h3>
   <h4 align="center">💖Support this repo by giving a star. Thanks.</h4>
   
-- Methid 1 - [Click here]()
+- Method 1 - [Click here]()
 - Method 2 - [Click here]()
 - Method 3 - [Click here]()
 
