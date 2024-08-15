@@ -83,7 +83,7 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 ```
 
 
-## Activation Photo
+
 <a href="https://github.com/dasiboyz/">
   
     <img src="./Windows-10-Activator/assets/Activation.jpg" alt="Logo">
