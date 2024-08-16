@@ -84,5 +84,6 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 
 ## Activation Image
 
-<img src="./Windows-10-Activator/assets/Activation.jpg" alt="Logo">
+<img src="./Windows-10-Activator/assets/Activation.jpg" alt="Windows Activation Image">
+
 
