@@ -86,4 +86,9 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 
 <img src="./Windows-10-Activator/assets/Activation.jpg" alt="Windows Activation Image">
 
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+# Last Word
+Happy Learning 💖📩🎉
 
